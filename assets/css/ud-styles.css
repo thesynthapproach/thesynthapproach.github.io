@@ -203,6 +203,20 @@ p {
     margin-top: 50px
 }
 
+.gif-container2 {
+    width: 100%;
+    max-width: 1200px; /* Increased max width */
+    margin: 20px auto; /* Centers the container */
+    text-align: center;
+}
+.gif-container2 img {
+    width: 100%;
+    height: auto; /* Maintains aspect ratio */
+    max-width: 1200px; /* Increased size */
+    display: block;
+    margin: 0 auto; /* Centers the GIF */
+}
+
 .back-to-top:hover {
   color: var(--white);
   background: var(--heading-color);
