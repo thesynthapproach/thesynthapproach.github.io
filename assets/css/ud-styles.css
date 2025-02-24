@@ -204,6 +204,8 @@ p {
 }
 
 .gif-container2 {
+    filter: opacity(50%);
+    border-radius: 35px;
     width: 100%;
     max-width: 1200px; /* Increased max width */
     margin: 20px auto; /* Centers the container */
