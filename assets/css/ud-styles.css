@@ -216,7 +216,7 @@ p {
     filter: grayscale(100%);
     width: 100%;
     height: auto; /* Maintains aspect ratio */
-    max-width: 900px; /* Increased size */
+    max-width: 901px; /* Increased size */
     display: block;
     margin: 0 auto; /* Centers the GIF */
 }
