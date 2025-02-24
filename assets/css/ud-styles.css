@@ -212,10 +212,11 @@ p {
     text-align: center;
 }
 .gif-container2 img {
+    border-radius: 30px; /* Adjust for more or less rounding */
     filter: grayscale(100%);
     width: 100%;
     height: auto; /* Maintains aspect ratio */
-    max-width: 1200px; /* Increased size */
+    max-width: 900px; /* Increased size */
     display: block;
     margin: 0 auto; /* Centers the GIF */
 }
